@@ -1,0 +1,32 @@
+{
+  "name": "uglicssy-cli",
+  "version": "0.1.0",
+  "description": "CLI for Uglicssy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "uglicssy-cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matewka/uglicssy-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "uglicssy",
+    "css",
+    "uglify"
+  ],
+  "author": "Mateusz Gawliński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matewka/uglicssy-cli/issues"
+  },
+  "homepage": "https://github.com/matewka/uglicssy-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "uglicssy": "^0.3.0"
+  }
+}
