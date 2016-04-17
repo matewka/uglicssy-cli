@@ -27,6 +27,6 @@
   "homepage": "https://github.com/matewka/uglicssy-cli#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "uglicssy": "^0.3.0"
+    "uglicssy": "~0.3.0"
   }
 }
